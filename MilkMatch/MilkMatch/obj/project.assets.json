@@ -8,17 +8,21 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "/Users/mm/.nuget/packages/": {}
+    "/Users/mm/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mm/Google Drive/education/milkmatch/stagemm.github.io/MilkMatch/MilkMatch/MilkMatch.csproj",
+      "projectUniqueName": "/Users/mm/Projects/stagemm.github.io/MilkMatch/MilkMatch/MilkMatch.csproj",
       "projectName": "MilkMatch",
-      "projectPath": "/Users/mm/Google Drive/education/milkmatch/stagemm.github.io/MilkMatch/MilkMatch/MilkMatch.csproj",
+      "projectPath": "/Users/mm/Projects/stagemm.github.io/MilkMatch/MilkMatch/MilkMatch.csproj",
       "packagesPath": "/Users/mm/.nuget/packages/",
-      "outputPath": "/Users/mm/Google Drive/education/milkmatch/stagemm.github.io/MilkMatch/MilkMatch/obj/",
+      "outputPath": "/Users/mm/Projects/stagemm.github.io/MilkMatch/MilkMatch/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "/Users/mm/.config/NuGet/NuGet.Config"
       ],
