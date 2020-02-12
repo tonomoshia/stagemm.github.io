@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  milkmatch:
+    image: ${DOCKER_REGISTRY-}milkmatch
+    build:
+      context: .
+      dockerfile: MilkMatch/Dockerfile
